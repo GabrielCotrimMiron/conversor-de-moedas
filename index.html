@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor de Moedas</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="./Images/conversor.ico" type="image/x-icon">
+</head>
+<body>
+    <h2>Conversor de Wons</h2>
+
+    <p>Digite o valor em Wons:</p>
+    <input type="number" id="valor">
+
+    <p>Escolha a moeda:</p>
+    <select id="moeda">
+        <option value="BRL">Real</option>
+        <option value="USD">Dólar</option>
+        <option value="EUR">Euro</option>
+    </select>
+
+    <button onclick="converter()">Converter</button>
+
+    <p id="resultado"></p>
+
+    <script src="js.js"></script>
+</body>
+</html>
