@@ -6,7 +6,7 @@ Este é um conversor de Won para Real e Dólar, feito com JavaScript.
 
 ## Como Funciona?  
 - O usuário informa um valor em Won (moeda da Coreia do Sul).  
-- O sistema converte esse valor para Reais e Dólares com base em uma taxa de câmbio fixa.  
+- O sistema converte esse valor para Reais, Dólares e Euros com base em uma taxa de câmbio fixa.  
 - O resultado aparece formatado de maneira clara e amigável.  
 
 ## Tecnologias Usadas 🛠  
