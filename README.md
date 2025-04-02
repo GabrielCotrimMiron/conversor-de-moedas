@@ -4,7 +4,7 @@
 
 Este é um conversor de Won para Real, Dólar e Euro, feito com JavaScript.  
 
-🚀 **Acesse o projeto online:** [Clique aqui](https://seu-usuario.github.io/conversor-moedas/)  
+🚀 **Acesse o projeto online:** [Clique aqui]([https://seu-usuario.github.io/conversor-moedas/](https://gabrielcotrimmiron.github.io/conversor-de-moedas/))  
 
 ## 📌 Como Funciona?  
 - O usuário informa um valor em Won (moeda da Coreia do Sul).  
