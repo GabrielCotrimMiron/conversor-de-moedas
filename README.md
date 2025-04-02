@@ -1,6 +1,6 @@
 # Conversor de Moedas 💰  
 
-(https://seu-usuario.github.io/conversor-moedas/imagem-do-projeto.png)  
+
 
 Este é um conversor de Won para Real, Dólar e Euro, feito com JavaScript.  
 
