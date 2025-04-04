@@ -20,4 +20,5 @@ Este é um conversor de Won para Real, Dólar e Euro, feito com JavaScript.
 ✅ Fazer conversão para dólares e euros  
 ✅ Formatar o valor no padrão "1.000.000,00"  
 
-💡 **Este projeto foi desenvolvido na Imersão Dev 9ª Edição da Alura, explorando conceitos fundamentais de JavaScript.**  
+💡 **Este projeto foi desenvolvido durante a Imersão Dev 9ª Edição da Alura, com adaptações e melhorias pessoais aplicadas na lógica e na interface.**
+
